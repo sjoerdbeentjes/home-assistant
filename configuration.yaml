@@ -55,10 +55,6 @@ login_attempts_threshold: 5
 
 ip_ban_enabled: true
 
-xiaomi_aqara:
-
-switch:
-
 # View all events in a logbook
 logbook:
 
